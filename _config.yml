@@ -9,7 +9,7 @@ name: Heedong's
 author: Amit Merchant
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Data Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -21,10 +21,10 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: heed159@penta.co.kr
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: https://github.com/ParkHeedong
   instagram:
   linkedin: 
   pinterest:
@@ -90,6 +90,7 @@ plugins:
 
 include: ['_pages']
 
+#한 페이지에 원하는 게시물 수 지정
 paginate: 6
 paginate_path: /page:num/
 
